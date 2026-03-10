@@ -5,8 +5,8 @@
 
 ##  🐙 **Stats**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rshero&show_icons=true&theme=tokyonight)
+![github stats](./profile/stats.svg)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rshero&show_icons=true&theme=tokyonight&layout=compact)
+![top languages](./profile/top-langs.svg)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rshero&theme=tokyonight&langs_count=6)
+![Wakatime](./profile/wakatime.svg)
