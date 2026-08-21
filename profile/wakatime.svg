@@ -149,7 +149,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >170 hrs 21 mins</text>
+      >170 hrs 22 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#38bdae"></rect>
@@ -195,7 +195,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >47 hrs 55 mins</text>
+      >47 hrs 56 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#38bdae"></rect>
